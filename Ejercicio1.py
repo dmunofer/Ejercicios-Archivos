@@ -12,4 +12,5 @@ def sin_pandas(filename):
         lista.append(dict(linea))
 
     archivo.close()
+    del lista[0]
     return lista
