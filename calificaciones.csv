@@ -1,4 +1,4 @@
-Apellidos;Nombre;Asistencia;Parcial1;Parcial2;Ordinario1;Ordinario2;Practicas;OrdinarioPracticas
+Apellidos,Nombre,Asistencia,Parcial1,Parcial2,Ordinario1,Ordinario2,Practicas,OrdinarioPracticas
 Anido Bonet;David;90%;5,5;2,75;;5;;
 Bueno Cerdeira;Patricia;95%;9,5;9;;;6,25;
 Casariego García;Raúl;98%;4,25;5,75;;;4;5
